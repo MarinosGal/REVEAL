@@ -29,3 +29,6 @@ of followers that they have.
 function that python provides, we compare the tweets among the users from each ranking list.
 Similar function returns a value between 0 and 1 and finds the relation between 2 strings. For
 example, similar(“Apple”, “Appel”)=0.8 but similar (“Apple”, “Mango”)=0.0.
+
+# Info
+This application is an excercise for the Reveal Project https://revealproject.eu/
